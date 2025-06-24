@@ -16035,7 +16035,7 @@
         "is_frame_bg": false,
         "is_collage": true,
         "image_count": 4,
-        "image_config": "[{\"x1\":50,\"x2\":94,\"y1\":27,\"y2\":84},{\"x1\":4,\"x2\":25,\"y1\":87,\"y2\":110},{\"x1\":23,\"x2\":44,\"y1\":87,\"y2\":110},{\"x1\":44,\"x2\":63,\"y1\":87,\"y2\":110}]",
+        "image_config": "[{\"x1\":50,\"x2\":94,\"y1\":27,\"y2\":84},{\"x1\":4,\"x2\":25,\"y1\":87,\"y2\":110},{\"x1\":24,\"x2\":44,\"y1\":87,\"y2\":110},{\"x1\":44,\"x2\":63,\"y1\":87,\"y2\":110}]",
         "template_type": 3,
         "is_featured": false,
         "image_url": "https://picshiner-cdn.adoreapps.com/templates/baby/bg/27-11-23-9-frame_65658a28ec22f.png",
