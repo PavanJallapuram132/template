@@ -9268,7 +9268,7 @@
         "is_frame_bg": false,
         "is_collage": true,
         "image_count": 2,
-        "image_config": "[   {     \"x1\": 16,     \"x2\": 83,     \"y1\": 8,     \"y2\": 68   },   {     \"x1\": 38,     \"x2\": 84,     \"y1\": 69,     \"y2\": 110   } ]",
+        "image_config": "[   {     \"x1\": 16,     \"x2\": 86,     \"y1\": 8,     \"y2\": 68   },   {     \"x1\": 38,     \"x2\": 84,     \"y1\": 68,     \"y2\": 110   } ]",
         "template_type": 3,
         "is_featured": false,
         "image_url": "https://picshiner-cdn.adoreapps.com/templates/love story/bg/19-10-23-18-FRAME_6536694ebd854.png",
